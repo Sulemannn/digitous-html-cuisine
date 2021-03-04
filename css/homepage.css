@@ -1,0 +1,42 @@
+/* NAV BAR */
+
+
+nav{
+    background: rgba(0, 0, 0, 0.8);
+}
+header{
+    background: rgba(0, 0, 0, 0.8); 
+    height: 600px;
+}
+
+#content {
+    text-decoration: none;
+    background-image: url(../img/header.jpg);
+    height: 600px;
+    background-position: center;    
+}
+
+.navbar-brand {
+    font-family: courgette;
+    color: #FFFFFF;
+}
+
+.nav-link {
+    font-family: oswald;
+    color: #FFFFFF;
+}
+
+#navbarNavAltMarkup {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.block2, h1, h2 {
+    font-family: courgette;
+    color: white;
+} 
+
+.block2 img {
+    width: 100px;
+}
