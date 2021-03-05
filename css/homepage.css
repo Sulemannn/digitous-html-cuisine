@@ -32,11 +32,16 @@ header{
 }
 
 
-.block2, h1, h2 {
+.block2, h1, h2, {
     font-family: courgette;
     color: white;
 } 
 
 .block2 img {
     width: 100px;
+}
+
+h4 {
+    font-family: courgette;
+
 }
